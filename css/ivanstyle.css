@@ -1,0 +1,18 @@
+/* CSS Document */
+.paragraph{
+	
+text-align: justify;
+	
+}
+
+
+.parallax-effect{
+	background-image: url(../imgs/parallax-img1.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	background-attachment: fixed;
+	height: 300px;
+	
+	
+}
